@@ -3,9 +3,7 @@ import java.net.InetAddress;
 import java.net.Socket;
 import java.nio.charset.StandardCharsets;
 import java.util.Scanner;
-/**
- * Created by Elena Cina on 3/11/2018.
- */
+
 public class SecuritySystemClient {
     public static void main( String args[]) throws IOException {
         int i = 0;
